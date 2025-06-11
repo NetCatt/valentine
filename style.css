@@ -10,9 +10,8 @@ body{
     flex-direction: column;
 }
 .container{
-    text-align: center;
-    justify-content:center;
-    width:70%;
+    
+    width:600px;
 }
 h1{
     font-size: 2em;
