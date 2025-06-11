@@ -10,7 +10,7 @@ body{
     flex-direction: column;
 }
 .container{
-    align-items:center;
+    align-text:center;
     width:100%;
 }
 h1{
